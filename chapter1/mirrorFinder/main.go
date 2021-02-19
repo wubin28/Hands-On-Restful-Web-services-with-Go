@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/Hands-On-Restful-Web-services-with-Go/chapter1/mirrors"
+	"github.com/wubin28/Hands-On-Restful-Web-services-with-Go/chapter1/mirrors"
 )
 
 type response struct {
